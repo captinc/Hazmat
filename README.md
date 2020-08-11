@@ -1,6 +1,6 @@
 # Hazmat v1.0
 Album artwork, but nuclear-quality. Supports iOS 13.0+ for SpringBoard, Apple Music, and Spotify 
-Made by me, MegaDev, and Charlie While
+Made by MegaDev, Charlie While and I
 
 Repo: Packix
 
